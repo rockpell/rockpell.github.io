@@ -18,6 +18,8 @@ email: aythffk@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
 프로그래밍을 공부하고 있습니다.
 aythffk@gmail.com
+url                      : "https://rockpell.github.io"
+baseurl                  : # the subpath of your site, e.g. "/blog"
 twitter_username: username
 github_username: username
 minimal_mistakes_skin: default
