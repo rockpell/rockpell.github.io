@@ -62,6 +62,8 @@ tags:
 
 ![vector1](/assets/images/vector1.jpg)
 
+<br>
+
 ### DirectXMath 라이브러리의 벡터
 #### SIMD
 
@@ -112,6 +114,8 @@ A의 각 성분 Cij를 계산해서 해당 ij번째 위치에 배치핸 행렬 C
 #### 딸림행렬(adjoint matrix, 수반행렬)
 
 여인수행렬의 전치행렬
+
+<br>
 
 ### DirectXMath의 행렬
 #### XMMATRIX
