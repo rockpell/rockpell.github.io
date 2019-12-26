@@ -1,10 +1,10 @@
 ---
-title: "SRS,SDS,SCS"
+title: "2019 NHN Forward 창원"
 date: 2019-12-26T22:30:00-04:00
 categories:
-  - 후기
+  - Review
 tags:
-  - NHN
+  - nhn
 ---
 
 # NHN Forward 경남 창원 후기
